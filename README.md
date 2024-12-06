@@ -1,4 +1,4 @@
-# CIFAR-10-Image-Classification
+# CIFAR 10 Image Classification
 
 This Python project is a real-time image classification system built for the CIFAR-10 dataset using TensorFlow and OpenCV. It focuses on training a Convolutional Neural Network (CNN) to classify images into ten categories such as airplanes, cars, and animals. The CIFAR-10 dataset is loaded, preprocessed, and split into training and testing datasets. Images are normalized to enhance the model’s performance during training and evaluation.
 
