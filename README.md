@@ -9,5 +9,5 @@ A key feature of the project is its integration of deep learning with computer v
 This project delivers a complete system that integrates a trained CNN model into a real-time application. Its flexible design makes it easy to adapt to other datasets and classification tasks, making it a practical tool for various use cases. By combining clear evaluation methods, real-time interaction, and a simple workflow, this project showcases how deep learning can be effectively used for real-world image classification tasks.
 
 <p align="center">
-  <img src="assets/demo.png" alt="Demo Preview" width="full">
+  <img src="assets/Demo.png" alt="Demo Preview" width="full">
 </p>
