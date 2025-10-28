@@ -7,3 +7,7 @@ The CNN model is designed with a series of convolutional layers for feature extr
 A key feature of the project is its integration of deep learning with computer vision for real-time inference. Using OpenCV, video frames are captured from a webcam, and a specific region of interest (ROI) is processed and resized to match the CNN’s input size. The model predicts the class of the object in the ROI and overlays the predicted label and confidence score on the live video feed. Users can toggle inference mode by clicking on the OpenCV window and exit the system with a simple keypress.
 
 This project delivers a complete system that integrates a trained CNN model into a real-time application. Its flexible design makes it easy to adapt to other datasets and classification tasks, making it a practical tool for various use cases. By combining clear evaluation methods, real-time interaction, and a simple workflow, this project showcases how deep learning can be effectively used for real-world image classification tasks.
+
+<p align="center">
+  <img src="assets/demo.png" alt="Demo Preview" width="full">
+</p>
